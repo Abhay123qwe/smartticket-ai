@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kb_001",
+    "category": "account",
+    "question": "How to reset password?",
+    "answer": "To reset your password: 1) Go to the login page, 2) Click 'Forgot Password', 3) Enter your email address, 4) Check your email for a reset link, 5) Click the link and create a new password. The link expires in 24 hours."
+  },
+  {
+    "id": "kb_002",
+    "category": "account",
+    "question": "How to update account information?",
+    "answer": "To update your account information: 1) Log in to your account, 2) Navigate to 'Settings' or 'Profile', 3) Click 'Edit Profile', 4) Update your information, 5) Click 'Save Changes'. Changes may take a few minutes to reflect."
+  },
+  {
+    "id": "kb_003",
+    "category": "billing",
+    "question": "How to cancel subscription?",
+    "answer": "To cancel your subscription: 1) Log in to your account, 2) Go to 'Billing' or 'Subscription', 3) Click 'Manage Subscription', 4) Select 'Cancel Subscription', 5) Confirm cancellation. You'll have access until the end of your current billing period."
+  },
+  {
+    "id": "kb_004",
+    "category": "billing",
+    "question": "How to update payment method?",
+    "answer": "To update your payment method: 1) Log in to your account, 2) Navigate to 'Billing Settings', 3) Click 'Payment Methods', 4) Add or update your card information, 5) Set as default if needed. All charges are secure and encrypted."
+  },
+  {
+    "id": "kb_005",
+    "category": "technical",
+    "question": "App won't load or crashes",
+    "answer": "If the app won't load: 1) Check your internet connection, 2) Clear browser cache or app data, 3) Update to the latest version, 4) Try a different browser or device, 5) Restart your device. If issues persist, contact support with error details."
+  },
+  {
+    "id": "kb_006",
+    "category": "technical",
+    "question": "How to troubleshoot connectivity issues?",
+    "answer": "For connectivity issues: 1) Verify internet connection is stable, 2) Disable VPN if active, 3) Check firewall settings, 4) Clear DNS cache, 5) Try incognito/private browsing mode. For persistent issues, check our status page or contact support."
+  },
+  {
+    "id": "kb_007",
+    "category": "features",
+    "question": "How to export data?",
+    "answer": "To export your data: 1) Log in to your account, 2) Go to 'Settings' > 'Data Management', 3) Click 'Export Data', 4) Select format (CSV, JSON, PDF), 5) Click 'Download'. Large exports may take time and will be emailed to you."
+  },
+  {
+    "id": "kb_008",
+    "category": "features",
+    "question": "How to integrate with other tools?",
+    "answer": "To set up integrations: 1) Go to 'Settings' > 'Integrations', 2) Browse available integrations, 3) Click on desired integration, 4) Follow authentication steps, 5) Configure sync settings. API documentation is available for custom integrations."
+  },
+  {
+    "id": "kb_009",
+    "category": "security",
+    "question": "How to enable two-factor authentication?",
+    "answer": "To enable 2FA: 1) Go to 'Security Settings', 2) Click 'Enable Two-Factor Authentication', 3) Choose method (SMS or authenticator app), 4) Follow setup instructions, 5) Save backup codes. Keep backup codes in a secure location."
+  },
+  {
+    "id": "kb_010",
+    "category": "security",
+    "question": "Suspicious account activity detected",
+    "answer": "If you notice suspicious activity: 1) Change your password immediately, 2) Review recent login history in Settings, 3) Log out of all devices, 4) Enable two-factor authentication, 5) Contact support if unauthorized access occurred. We take security very seriously."
+  }
+]

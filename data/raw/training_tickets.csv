@@ -1,0 +1,21 @@
+ticket_id,subject,description,category,priority,sentiment
+T001,"Cannot reset password","I've tried to reset my password multiple times but the email never arrives",account,high,negative
+T002,"How to export my data?","I need to download all my data in CSV format for analysis",features,medium,neutral
+T003,"Billing issue - double charged","I was charged twice this month. Please refund",billing,high,negative
+T004,"App keeps crashing","The mobile app crashes every time I try to open it",technical,high,negative
+T005,"Question about API integration","How can I integrate your API with Salesforce?",features,low,neutral
+T006,"Love the new features!","The recent update is amazing. Great work!",general,low,positive
+T007,"Account locked","My account is locked and I can't login",account,high,negative
+T008,"Subscription cancellation","I want to cancel my subscription before next billing cycle",billing,medium,neutral
+T009,"2FA setup help","Need assistance setting up two-factor authentication",security,medium,neutral
+T010,"Payment method update","How do I change my credit card on file?",billing,low,neutral
+T011,"Data not syncing","My data hasn't synced in 2 days",technical,high,negative
+T012,"Feature request","Would love to see dark mode added",features,low,positive
+T013,"Slow performance","The dashboard loads very slowly",technical,medium,negative
+T014,"Can't find setting","Where is the notification settings page?",general,low,neutral
+T015,"Upgrade to premium","I want to upgrade my plan to premium",billing,medium,positive
+T016,"Security concern","I received a suspicious email claiming to be from you",security,high,negative
+T017,"Training materials","Do you have video tutorials for new users?",general,low,neutral
+T018,"Connection timeout","Getting timeout errors when trying to connect",technical,high,negative
+T019,"Invoice copy needed","Can you send me a copy of last month's invoice?",billing,low,neutral
+T020,"Amazing support","Your support team was incredibly helpful!",general,low,positive
