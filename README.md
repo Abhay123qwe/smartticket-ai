@@ -69,3 +69,6 @@ docker run -p 8000:8000 --env-file .env smartticket-ai
 - `POST /api/v1/ticket/respond` - Generate automated response
 - `GET /api/v1/health` - Health check
 
+## License
+
+MIT License
