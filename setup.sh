@@ -20,20 +20,20 @@ echo "✓ Python $python_version detected"
 echo ""
 
 # Create virtual environment
-echo "Creating virtual environment..."
-python3 -m venv venv
-echo "✓ Virtual environment created"
-echo ""
+# echo "Creating virtual environment..."
+# python3 -m venv venv
+# echo "✓ Virtual environment created"
+# echo ""
 
 # Activate virtual environment
-echo "Activating virtual environment..."
-source venv/bin/activate
-echo "✓ Virtual environment activated"
-echo ""
+# echo "Activating virtual environment..."
+# source venv/bin/activate
+# echo "✓ Virtual environment activated"
+# echo ""
 
 # Install dependencies
 echo "Installing dependencies..."
-pip install --upgrade pip
+# pip install --upgrade pip
 pip install -r requirements.txt
 echo "✓ Dependencies installed"
 echo ""
