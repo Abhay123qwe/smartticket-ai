@@ -15,18 +15,18 @@ RUN apt-get update && apt-get install -y \
     curl \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy requirements
+# Copy only what setup needs (cache-friendly)
 COPY requirements.txt .
+     setup.sh .
 
-# Install Python dependencies
-RUN pip install --upgrade pip && \
-    pip install -r requirements.txt
+# Run setup
+RUN chmod +x setup.sh && ./setup.sh
 
 # Copy application code
 COPY . .
 
 # Create necessary directories
-RUN mkdir -p data/raw data/processed models logs
+# RUN mkdir -p data/raw data/processed models logs
 
 # Expose port
 EXPOSE 8000
